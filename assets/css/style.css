@@ -141,16 +141,31 @@ section.card {
 footer {
     background-color: var(--secondary-color);
     color: var(--neutral-lt-color);
-    text-align: center;
+    text-align: center;.ta img:hover {
+        transform: scale(1.25);
+    }
     font-size: 1rem;
     padding: 1rem 0 .25rem;
     margin-top: auto;
 }
 
 header img{
-    width: 100px;
+    width: 150px;
     height: fit-content;
     float: right;
     
 }
+
+.panna img:hover {
+    transform: scale(1.25);
+}
+
+.jo img:hover {
+    transform: scale(1.25);
+}
+
+.ta img:hover {
+    transform: scale(1.24);
+}
+
 
