@@ -149,6 +149,8 @@ footer {
 
 header img{
     width: 100px;
+    height: fit-content;
     float: right;
     
 }
+
